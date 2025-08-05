@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there! I'm Sachin.R
 
-<!--
-**sachinrajendran19-star/sachinrajendran19-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing **B.E. in Information Technology** at **Peri Institute of Technology**.  
+💻 I'm passionate about Web Development, Programming, and building cool tech projects.  
+🌱 Currently learning: Python, JavaScript, MySQL, Git, and more.  
+📫 Reach me at: sachinrajendran.19@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- 💻 Languages: `C`, `Java`, `Python`
+- 🌐 Web: `HTML`, `CSS`, `JavaScript`
+- 🛠️ Tools: `Git`, `VS Code`, `MySQL`
+- 🖥️ OS: `Windows`, `Linux (basic)`
+
+---
+
+## 📂 Projects
+
+### 🔹 On going!
+
+---
+
+## 🏆 Certifications
+
+- ✅ Introduction to Python – Coursera  
+- ✅ Web Development Basics – Great Learning  
+- ✅ C Programming – NPTEL  
+
+---
+
+## 🤝 Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sachin-rajendran-bb5865367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📧 sachinrajendran.19@gmail.com
