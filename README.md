@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Sachin.R
 
-🎓 I'm currently pursuing **B.E. in Information Technology** at **Peri Institute of Technology**.  
+🎓 I'm currently pursuing **B.Tech. in Information Technology** at **Peri Institute of Technology**.  
 💻 I'm passionate about Web Development, Programming, and building cool tech projects.  
 🌱 Currently learning: Python, JavaScript, MySQL, Git, and more.  
 📫 Reach me at: sachinrajendran.19@gmail.com  
